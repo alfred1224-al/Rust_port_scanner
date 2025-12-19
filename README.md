@@ -1,2 +1,2 @@
-# Rust_log_Analyzer
+# Rust_port_scanner
 Rust Group project
