@@ -4,7 +4,7 @@ use clap::Parser;
 #[command(author, version, about = "Rust TCP Port Analyzer")]
 pub struct Args {
     /// Target host (IP or domain)
-    #[arg(short, long)]
+    #[arg(short = 'H', long)]
     pub host: String,
 
     /// Start port

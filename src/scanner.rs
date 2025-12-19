@@ -1,6 +1,3 @@
-src/scanner.rs
-(Port scanning logic – Govinda’s part)
-
 use std::net::{TcpStream, ToSocketAddrs};
 use std::time::Duration;
 
